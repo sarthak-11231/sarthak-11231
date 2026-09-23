@@ -83,20 +83,25 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sarthak-11231&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Sarthak's GitHub statistics"
-  />
+  <a href="https://github.com/sarthak-11231">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-11231&layout=compact&theme=github_dark&hide_border=true"
-    alt="Most used programming languages"
-  />
+  <a href="https://github.com/sarthak-11231?tab=repositories">
+    Explore my projects and contributions 🚀
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep improving. 🚀</i>
 </p>
 
 ---
